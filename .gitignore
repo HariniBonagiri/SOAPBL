@@ -1,0 +1,10 @@
+.DS_Store
+.Trash/
+*.ipynb
+*.save
+.vscode/
+*.log
+node_modules/
+*.pyc
+__pycache__/
+
